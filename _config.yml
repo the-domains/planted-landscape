@@ -1,7 +1,7 @@
 name: Planted Landscape
 favicon: null
-layout_spectrum: 0.02045970014296472
-typography_spectrum: 0.9063020262401551
+layout_spectrum: 1
+typography_spectrum: 0.5666
 title: Planted Landscape
 cta:
   domain: null
