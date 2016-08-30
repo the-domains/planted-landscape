@@ -1,19 +1,4 @@
-name: Planted Landscape
-favicon: null
-layout_spectrum: 0.02045970014296472
 typography_spectrum: 0.9063020262401551
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,20 @@ color:
   lightness: 0.13966108998283744
   saturation: 0.003979790490120649
   rhythmicContrast: 0.5685790320858359
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.02045970014296472
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Planted Test
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Planted Landscape
 purpose: []
